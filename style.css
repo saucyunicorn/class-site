@@ -12,6 +12,9 @@ body{
 
 ul {
   list-style-type: "♡";
+  font-size: 40px;
+  font-weight: 300;
+  color: #FF003D;
   padding: 20px;
   margin: 20px;
 }

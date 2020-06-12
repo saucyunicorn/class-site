@@ -1,0 +1,23 @@
+h1{
+  font-size: 150px;
+  color: 002FFF;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: #FFFFDA;
+  background-image: url("mirror.gif");
+  background-size: 25%;
+}
+
+ul {
+  list-style-type: "♡";
+  padding: 20px;
+  margin: 20px;
+}
+
+a{
+  font-size: 100px;
+  color: #FF003D;
+  font-family: sans-serif;
+}

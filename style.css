@@ -24,3 +24,11 @@ a{
   color: #FF003D;
   font-family: sans-serif;
 }
+
+p {
+  font-family: sans-serif;
+  color: linen;
+  background: lightsalmon;
+  font-size: 125px;
+  font-kerning: none;
+}
